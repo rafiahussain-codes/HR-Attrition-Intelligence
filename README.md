@@ -22,8 +22,8 @@ Identifies high-risk employees & retention patterns.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📊 Dashboard Preview
-![Dashboard Page 1](01_HR Attrition .png)
-![Dashboard Page 2](02_HR Attrition .png)
+![Dashboard Page 1](01_HR%20Attrition%20.png)
+![Dashboard Page 2](02_HR%20Attrition%20.png)
 
 ## 📁 Dataset
 IBM HR Analytics — Kaggle
